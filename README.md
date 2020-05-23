@@ -1,2 +1,2 @@
-# user-service-ui
-This repo contains UI code for user service
+# Writeup
+A website to write & spread your ideas
